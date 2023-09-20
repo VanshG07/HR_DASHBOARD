@@ -1,1 +1,2 @@
 # HR_DASHBOARD
+The HR Dashboard project aims to provide valuable insights into an organization's human resources data. This project leverages SQL queries to extract, transform, and load (ETL) data from HR databases and then uses Power BI for visualizing the data. The resulting dashboard will help HR professionals, managers, and executives make informed decisions related to workforce management and performance.
